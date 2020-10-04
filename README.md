@@ -1,5 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
-[![Email](https://img.shields.io/badge/-E-mail-c14438?style=flat&logo=Mail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)
+[![Email](https://img.shields.io/badge/-Outlook-c14438?style=flat&logo=Mail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)
 
 <h2>Olá, meu nome é Raziel Miranda Rodrigues</h2>
 
