@@ -1,4 +1,4 @@
-<h2>Olá, meu nome é Raziel Miranda Rodrigues </h2>
+<h2>Prazer sou o Raziel Miranda Rodrigues </h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)
@@ -18,6 +18,6 @@ Estou na area de tecnologia desde 2017, sempre estudando e tentando aumentar o m
  
 <p align="center">
  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razielmiranda" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razielmiranda&show_icons=true&theme=dark" />
  </a>
 </p>
