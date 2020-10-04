@@ -1,6 +1,6 @@
 
 
-<h2>Olá, meu nome é Raziel Miranda Rodrigues[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
+<h2>Olá, meu nome é Raziel Miranda Rodrigues [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)</h2>
 
 Estou na area de tecnologia desde 2017, sempre estudando e tentando aumentar o meu conhecimento sobre tecnologia sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo atualmente estou trabalhando na empresa UP Outsourcing onde minha função é desenvolver para uma plataforma de vendas de cruzeiros. Na vida academica estou me formando em banco de dados na FATEC Bauru. Nos meus estudos extracurricular estou estudando PHP e me focando em backend.
