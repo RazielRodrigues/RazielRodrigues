@@ -1,4 +1,5 @@
-Oi meu nome é Raziel Miranda Rodrigues :nerd
+<center>
+Oi meu nome é Raziel Miranda Rodrigues <img src="">
 
 - 📚 Formado em banco de dados pela Faculdade de tecnologia de Bauru
 - 🦏 Atualmente trabalhando com PHP e focando em desenvolvimento web
@@ -14,3 +15,4 @@ Oi meu nome é Raziel Miranda Rodrigues :nerd
   <img src="https://github-readme-stats.vercel.app/api?username=razielmiranda&show_icons=true&theme=dark" />
  </a>
 </p>
+</center>
