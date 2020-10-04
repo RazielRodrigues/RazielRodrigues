@@ -6,11 +6,11 @@
 <br>
 [![Email](https://img.shields.io/badge/-Outlook-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)
 
+<p align="center"> 
 Sou o Raziel Rodrigues
 
 - 📚 Formado em banco de dados pela Faculdade de tecnologia de Bauru
 - 🦏 Atualmente trabalhando com PHP e focando em desenvolvimento web
 
-<p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=milenacarecho&show_icons=true&theme=graywhite" /></a>
 </p> 
