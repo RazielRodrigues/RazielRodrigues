@@ -18,6 +18,6 @@ Estou na area de tecnologia desde 2017, sempre estudando e tentando aumentar o m
  
 <p align="center">
  <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razielmiranda&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razielmiranda&show_icons=true&theme=dark&layout=compact" />
  </a>
 </p>
