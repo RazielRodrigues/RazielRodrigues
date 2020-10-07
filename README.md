@@ -10,7 +10,14 @@ Estou na area de tecnologia desde 2017, sempre estudando e tentando aumentar o m
 
 <hr>
 
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=razielmiranda&show_icons=true&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razielmiranda&show_icons=true&layout=compact" />
-</p>
+<center>
+    <table align="center">
+      <tr>
+          <td>
+              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=razielmiranda&count_private=true&hide_border=true" />
+          </td>
+          <td>
+              <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razielmiranda&hide=html&layout=compact&count_private=true&hide_border=true" />               </td>
+      </tr>  
+    </table>
+</center>
