@@ -5,6 +5,8 @@ sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo!
 
 - 📚 <b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
 - 🚀 <b>Atualmente trabalhando com PHP e focando em desenvolvimento web</b>
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
 
 <hr>
 
@@ -22,12 +24,3 @@ sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo!
 </center>
 
 <hr>
-
-<center>
-    
-<a href="https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/" target="_blank">LINKEDIN</a>
-    
-[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
-
-</center>
