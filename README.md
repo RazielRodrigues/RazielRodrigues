@@ -1,13 +1,5 @@
 <img  align="center" src="eat-sleep-code-repeat-er-1366x768.jpg" width="100%">
 
-Estou na area de tecnologia desde 2017, sempre estudando e tentando aumentar o meu conhecimento sobre tecnologia, 
-sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo!
-
-- 📚 <b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
-- 🚀 <b>Atualmente trabalhando com PHP e focando em desenvolvimento web</b>
-[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
-
 <hr>
 
 <center>
@@ -24,3 +16,11 @@ sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo!
 </center>
 
 <hr>
+
+Estou na area de tecnologia desde 2017, sempre estudando e tentando aumentar o meu conhecimento sobre tecnologia, 
+sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo!
+
+- 📚 <b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
+- 🚀 <b>Atualmente trabalhando com PHP e focando em desenvolvimento web</b>
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:raziel.rodrigues@fatec.sp.gov.br)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziel-rodrigues-2b32b5140/)
