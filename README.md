@@ -1,4 +1,4 @@
-<img  align="center" src="eat-sleep-code-repeat-er-1366x768.jpg" width="50%">
+<img  align="center" src="eat-sleep-code-repeat-er-1366x768.jpg" width="100%">
 
 Estou na area de tecnologia desde 2017, sempre estudando e tentando aumentar o meu conhecimento sobre tecnologia, 
 sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo!
