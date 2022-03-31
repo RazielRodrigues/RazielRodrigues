@@ -18,3 +18,5 @@ sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo!
 
 - 📚 <b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
 - 🚀 <b>Atualmente trabalhando com PHP e Symfony</b>
+
+<div class="tenor-gif-embed" data-postid="16837099" data-share-method="host" data-aspect-ratio="2.40601" data-width="100%"><a href="https://tenor.com/view/matrix-upload-neo-gif-16837099">Matrix Upload GIF</a>from <a href="https://tenor.com/search/matrix-gifs">Matrix GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
