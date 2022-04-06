@@ -5,9 +5,6 @@
               <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=razielmiranda&count_private=true&hide_border=true" />
           </td>
           <td>
-              <img src="matrix.gif" />
-          </td>
-          <td>
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razielmiranda&hide=html&layout=compact&count_private=true&hide_border=true" /> 
           </td>
       </tr>  
