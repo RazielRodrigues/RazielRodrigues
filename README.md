@@ -2,9 +2,6 @@
     <table align="center">
       <tr>
           <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=razielmiranda&count_private=true&hide_border=true" />
-          </td>
-          <td>
               <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razielmiranda&hide=html&layout=compact&count_private=true&hide_border=true" /> 
           </td>
       </tr>  
@@ -13,8 +10,9 @@
 
 <hr>
 
-Estou na area de tecnologia desde 2017, sempre estudando e tentando aumentar o meu conhecimento sobre tecnologia, 
-sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo!
+Apaixonado por tecnologia e entusiasta em web, sempre procurando evoluir para se tornar uma pessoa e um profissional melhor,
 
-- 📚 <b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
-- 🚀 <b>Atualmente trabalhando com PHP e Symfony</b>
+PHP, JQuery, Bootstrap, MySQL, Git, Symfony, JavaScript, SOAP, REST, Docker, Jira, Scrum, Vue, Laravel, Kanban.
+
+<b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
+<b>Atualmente trabalhando com PHP e Symfony</b>
