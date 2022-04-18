@@ -13,8 +13,5 @@
 
 <hr>
 
-Estou na area de tecnologia desde 2017, sempre estudando e tentando aumentar o meu conhecimento sobre tecnologia, 
-sou apaixonado por fazer codigos e criar coisas novas para o nosso mundo!
-
-- 📚 <b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
-- 🚀 <b>Atualmente trabalhando com PHP e Symfony</b>
+- <b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
+- <b>Atualmente trabalhando com PHP e Symfony</b>
