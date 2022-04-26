@@ -15,3 +15,12 @@
 
 - <b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
 - <b>Atualmente trabalhando com PHP e Symfony</b>
+
+Conheça alguns dos meus projetos:
+
+## JAVASCRIPT
+- https://raziel-js-learning-path.netlify.app/</li>
+- https://github.com/RazielMiranda/flappy-bird-game
+- https://github.com/RazielMiranda/dino-game
+- https://github.com/RazielMiranda/you-speech-we-write
+- https://raziel-js-learning-path.netlify.app/
