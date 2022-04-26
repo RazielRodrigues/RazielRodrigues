@@ -19,8 +19,17 @@
 Conheça alguns dos meus projetos:
 
 ## JAVASCRIPT
-- https://raziel-js-learning-path.netlify.app/</li>
-- https://github.com/RazielMiranda/flappy-bird-game
-- https://github.com/RazielMiranda/dino-game
-- https://github.com/RazielMiranda/you-speech-we-write
-- https://raziel-js-learning-path.netlify.app/
+- https://razielmiranda.github.io/js-speech/
+- https://razielmiranda.github.io/js-whats-link-generator/
+- https://razielmiranda.github.io/js-consulta-cep/
+- https://razielmiranda.github.io/js-learning-path/
+- https://razielmiranda.github.io/js-imc-calculator/
+
+- https://razielmiranda.github.io/flappy-bird-game/
+- https://razielmiranda.github.io/dino-game/
+- https://razielmiranda.github.io/website-rz-beats/
+- https://razielmiranda.github.io/pwa-learning-path/
+- https://razielmiranda.github.io/js-base64-decoder/
+
+## PHP
+- https://you-speech-we-write.herokuapp.com/
