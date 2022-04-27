@@ -13,11 +13,13 @@
 
 <hr>
 
-- <b>Formado em banco de dados na Faculdade de tecnologia de Bauru</b>
-- <b>Atualmente trabalhando com PHP e Symfony</b>
+<h5>Checkout my projects</h5>
 
-Conheça alguns dos meus projetos:
-
+<center>
+    <table align="center">
+      <tr>
+          <td>
+              
 ## JAVASCRIPT
 - https://razielmiranda.github.io/js-speech/
 - https://razielmiranda.github.io/js-whats-link-generator/
@@ -30,7 +32,19 @@ Conheça alguns dos meus projetos:
 - https://razielmiranda.github.io/website-rz-beats/
 - https://razielmiranda.github.io/pwa-learning-path/
 - https://razielmiranda.github.io/js-base64-decoder/
+          
+          </td>
+          <td>
+
 
 ## PHP
 - https://raziel-symfony-register.herokuapp.com/
 - https://raziel-pure-php.herokuapp.com/
+          
+          
+          
+          
+          </td>
+      </tr>  
+    </table>
+</center>
