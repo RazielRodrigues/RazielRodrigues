@@ -13,15 +13,16 @@
 
 <hr>
 
-<h5>Checkout my projects</h5>
 
 <center>
+    <h5>Checkout my projects</h5>
+    
     <table align="center">
       <tr>
           <td>
               
-## JAVASCRIPT
-- https://razielmiranda.github.io/js-speech/
+- JAVASCRIPT:
+ - https://razielmiranda.github.io/js-speech/
 - https://razielmiranda.github.io/js-whats-link-generator/
 - https://razielmiranda.github.io/js-consulta-cep/
 - https://razielmiranda.github.io/js-learning-path/
@@ -36,14 +37,9 @@
           </td>
           <td>
 
-
-## PHP
+- PHP AND SYMFONY
 - https://raziel-symfony-register.herokuapp.com/
 - https://raziel-pure-php.herokuapp.com/
-          
-          
-          
-          
           </td>
       </tr>  
     </table>
