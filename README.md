@@ -15,32 +15,29 @@
 
 
 <center>
-    <h5>Checkout my projects</h5>
-    
-    <table align="center">
-      <tr>
-          <td>
-              
-- JAVASCRIPT:
- - https://razielmiranda.github.io/js-speech/
-- https://razielmiranda.github.io/js-whats-link-generator/
-- https://razielmiranda.github.io/js-consulta-cep/
-- https://razielmiranda.github.io/js-learning-path/
-- https://razielmiranda.github.io/js-imc-calculator/
+<h5>Checkout my projects</h5>
+<table align="center">
+<tr>
+    <td>
+    - JAVASCRIPT:
+    - https://razielmiranda.github.io/js-speech/
+    - https://razielmiranda.github.io/js-whats-link-generator/
+    - https://razielmiranda.github.io/js-consulta-cep/
+    - https://razielmiranda.github.io/js-learning-path/
+    - https://razielmiranda.github.io/js-imc-calculator/
 
-- https://razielmiranda.github.io/flappy-bird-game/
-- https://razielmiranda.github.io/dino-game/
-- https://razielmiranda.github.io/website-rz-beats/
-- https://razielmiranda.github.io/pwa-learning-path/
-- https://razielmiranda.github.io/js-base64-decoder/
-          
-          </td>
-          <td>
+    - https://razielmiranda.github.io/flappy-bird-game/
+    - https://razielmiranda.github.io/dino-game/
+    - https://razielmiranda.github.io/website-rz-beats/
+    - https://razielmiranda.github.io/pwa-learning-path/
+    - https://razielmiranda.github.io/js-base64-decoder/
 
-- PHP AND SYMFONY
-- https://raziel-symfony-register.herokuapp.com/
-- https://raziel-pure-php.herokuapp.com/
-          </td>
-      </tr>  
-    </table>
+    </td>
+    <td>
+    - PHP AND SYMFONY
+    - https://raziel-symfony-register.herokuapp.com/
+    - https://raziel-pure-php.herokuapp.com/
+    </td>
+</tr>  
+</table>
 </center>
