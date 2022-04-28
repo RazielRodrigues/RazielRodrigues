@@ -33,7 +33,6 @@
                     <li><a href="http://raziel-laravel-restaurant.herokuapp.com/">Laravel Restaurant App</a></li>
                     <li><a href="https://raziel-pure-php.herokuapp.com/">Pure PHP projects</a></li>
                     <li><a href="https://raziel-innout-php.herokuapp.com/">Pure PHP MVC Project</a></li>
-                    <li>More waiting to be deployed...</li>
                 </ul>
             </td>
         </tr>
