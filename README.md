@@ -30,6 +30,7 @@
                 <ul>
                     <h5>PHP</h5>
                     <li><a href="https://raziel-symfony-register.herokuapp.com/">Symfony Register App</a></li>
+                    <li><a href="https://bauruoportunidades.herokuapp.com/">City Of Bauru Job App</a></li>
                     <li><a href="https://raziel-laravel-restaurant.herokuapp.com/login">Laravel Restaurant App</a></li>
                     <li><a href="https://raziel-pure-php.herokuapp.com/">Pure PHP projects</a></li>
                     <li><a href="https://raziel-innout-php.herokuapp.com/">Pure PHP MVC Project</a></li>
