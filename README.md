@@ -24,6 +24,7 @@
                     <li><a href="https://razielmiranda.github.io/dino-game/">Google chrome dino game</a></li>
                     <li><a href="https://razielmiranda.github.io/js-consulta-cep/">Brazil CEP API</a></li>
                     <li><a href="https://razielmiranda.github.io/js-whats-link-generator/">Whatsapp link generator</a></li>
+                    <li><a href="https://react-learning-path.vercel.app/">React Feedback Project</a></li>
                 </ul>
             </td>
             <td>
