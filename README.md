@@ -14,7 +14,6 @@
 <hr>
 
 <center>
-    <h2>Checkout my projects</h2>
     <table align="center">
         <tr>
             <td>
