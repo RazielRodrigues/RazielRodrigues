@@ -18,18 +18,13 @@
     <table align="center">
         <tr>
             <td>
-                <h5>JAVASCRIPT</h5>
                 <ul>
+                    <li><a href="https://react-profile-lime.vercel.app/">Profile</a></li>
                     <li><a href="https://razielmiranda.github.io/flappy-bird-game/">Flappy bird game</a></li>
                     <li><a href="https://razielmiranda.github.io/dino-game/">Google chrome dino game</a></li>
                     <li><a href="https://razielmiranda.github.io/js-consulta-cep/">Brazil CEP API</a></li>
                     <li><a href="https://razielmiranda.github.io/js-whats-link-generator/">Whatsapp link generator</a></li>
                     <li><a href="https://react-learning-path.vercel.app/">React Feedback Project</a></li>
-                </ul>
-            </td>
-            <td>
-                <ul>
-                    <h5>PHP</h5>
                     <li><a href="https://raziel-symfony-register.herokuapp.com/">Symfony Register App</a></li>
                     <li><a href="https://bauruoportunidades.herokuapp.com/">City Of Bauru Job App</a></li>
                     <li><a href="https://raziel-laravel-restaurant.herokuapp.com/login">Laravel Restaurant App</a></li>
