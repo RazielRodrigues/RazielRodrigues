@@ -6,7 +6,7 @@
 <h3 align="center">About me:</h3>
 
 <p align="center">
-I study and work with programming above all because I like it a lot, and I feel very good studying something that can bring me return, so I dedicate myself and I'm always looking for new technologies that I can use to help me so much in the work and in life.
+I study and work with programming above all because I like it a lot, and I feel very good studying something that can bring me return, so I dedicate myself and I'm always looking for new technologies that I can use to help people with softwares.
 </p>
 
 <p align="center">
