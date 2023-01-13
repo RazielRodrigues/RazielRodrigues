@@ -1,6 +1,6 @@
 <h3 align="center">Welcome to my codes, it's a pleasure have you here!</h3>
 
-<h3 align="center">About me:</h3>
+<h3 align="center">THe passion behind the codes:</h3>
 
 <p align="center">
 Passionate about technology since I was little, playing on the computer and playing video games has always been part of my life, my father was a programmer and I believe it is in my DNA to like codes, I was always curious to know how things worked inside the screens, encouraged by this curiosity and by my family, I decided to study database at FATEC Bauru.
