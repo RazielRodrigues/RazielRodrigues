@@ -20,4 +20,4 @@ Today, I have a lot to thank the people who crossed my career and who taught me 
 
 </p>
 
-<h1 align="center">SEE DETAILS ABOUT MY CARREER ON <a href="https://raziel-dev.vercel.app/">DAILY POST BLOG (REACT)</a> 💻</h1>
+<h2 align="center">SEE DETAILS ABOUT MY CARREER ON MY <a href="https://raziel-dev.vercel.app/">WEBSITE</a> 💻</h2>
