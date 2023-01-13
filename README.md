@@ -19,3 +19,8 @@ Today, I have a lot to thank the people who crossed my career and who taught me 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=razielrodrigues&show_icons=true&theme=dark&locale=en&layout=compact" alt="razielrodrigues" />
 
 </p>
+
+<h1 align="center"> TOP PROJECTS 🏆 </h1>
+<ul align="center">>
+  <li>https://daillypost.vercel.app/</li>
+</ul>
