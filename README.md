@@ -20,5 +20,5 @@ Today, I have a lot to thank the people who crossed my career and who taught me 
 
 </p>
 
-<h1 align="center">TOP PROJECTS 🏆</h1>
+<h1 align="center">SOME PROJECTS  💻</h1>
 <p align="center" ><a href="https://daillypost.vercel.app/">DAILY POST BLOG (REACT)</a></p>
