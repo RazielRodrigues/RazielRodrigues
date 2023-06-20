@@ -16,7 +16,7 @@ Today, I have a lot to thank the people who crossed my career and who taught me 
 
 <p align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=razielrodrigues&show_icons=true&theme=dark&locale=en&layout=compact" alt="razielrodrigues" />
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6491279adb7de05a7a6fd525?variant=dark&roadmaps=backend)](https://roadmap.sh)
 
 </p>
 
