@@ -16,8 +16,7 @@ Today, I have a lot to thank the people who crossed my career and who taught me 
 
 <p align="center">
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6491279adb7de05a7a6fd525?variant=dark&roadmaps=backend)](https://roadmap.sh)
-
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6491279adb7de05a7a6fd525?variant=dark&roadmaps=backend" alt="roadmap.sh"/></a>
 </p>
 
 <h2 align="center">SEE DETAILS ABOUT MY CARREER ON MY <a href="https://raziel-bio.vercel.app/">WEBSITE</a> 💻</h2>
