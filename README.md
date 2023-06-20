@@ -14,9 +14,4 @@ In the first semester of college I saw that that was what I wanted for my life, 
 Today, I have a lot to thank the people who crossed my career and who taught me about professionalism, the world nowadays depends a lot on technology and I realize that we developers are the key point of all this, so I'm always improving myself and writing each line of code with a lot of responsibility, always looking to achieve excellence, because I know that this impacts a lot on the lives of those who use the software I program and the company I'm providing services to.
 </p>
 
-<p align="center">
-
-<img src="https://api.roadmap.sh/v1-badge/tall/6491279adb7de05a7a6fd525?variant=dark&roadmaps=backend" alt="roadmap.sh"/>
-</p>
-
 <h2 align="center">SEE DETAILS ABOUT MY CARREER ON MY <a href="https://raziel-bio.vercel.app/">WEBSITE</a> 💻</h2>
