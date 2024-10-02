@@ -12,12 +12,12 @@
   </ul>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raziel-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+ <h3 align="left">
+  Passionate about technology since I was little, playing on the computer and playing video games has always been part of my life, my father was a programmer and I believe it is in my DNA to like codes, I was always curious to know how things worked inside the screens, encouraged by this curiosity and by my family, I decided to study database at FATEC Bauru.
 
- <h3 align="left">Passionate about technology since I was little, playing on the computer and playing video games has always been part of my life, my father was a programmer and I believe it is in my DNA to like codes, I was always curious to know how things worked inside the screens, encouraged by this curiosity and by my family, I decided to study database at FATEC Bauru.
 
 In the first semester of college I saw that that was what I wanted for my life, from then on I started to dedicate myself every day to learning web development and with time I came to the first opportunity, where it opened the doors to work with PHP and other technologies involving the Web.
+
 
 Today, I have a lot to thank the people who crossed my career and who taught me about professionalism, the world nowadays depends a lot on technology and I realize that we developers are the key point of all this, so I'm always improving myself and writing each line of code with a lot of responsibility, always looking to achieve excellence, because I know that this impacts a lot on the lives of those who use the software I program and the company I'm providing services to.
 
@@ -40,6 +40,9 @@ Today, I have a lot to thank the people who crossed my career and who taught me 
   <li>Refactor, TDD, Clean Code, Code review, Design Patterns, SOLID, SOAP, REST, Message queue, SCRUM, JIRA</li>
   <li>Soft Skills: Quick learning, Collaborative, Solution oriented, Knowledge sharer</li>
 </ul>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raziel-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 <h3 align="left">GitHub Stats</h3>
 
