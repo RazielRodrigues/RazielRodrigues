@@ -40,7 +40,9 @@ Today, I have a lot to thank the people who crossed my career and who taught me 
 </ul>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raziel-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raziel-rodrigues/" target="_blank">Linkedin</a></p>
+<p align="left"><a href="https://dev.to/razielrodrigues" target="_blank">My Articles</a></p>
+
 
 <h3 align="left">GitHub Stats</h3>
 
