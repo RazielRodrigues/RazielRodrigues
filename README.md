@@ -1,7 +1,5 @@
 ![👋 Hi, my name is Raziel Rodrigues](https://wallpapercave.com/wp/wp6582675.jpg)
 
-![Profile views](https://komarev.com/ghpvc/?username=razielrodrigues&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -45,6 +43,8 @@ Today, I have a lot to thank the people who crossed my career and who taught me 
 <p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raziel-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
 <h3 align="left">GitHub Stats</h3>
+
+![Profile views](https://komarev.com/ghpvc/?username=razielrodrigues&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=razielrodrigues&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
