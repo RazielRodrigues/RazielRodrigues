@@ -1,4 +1,4 @@
-![👋 Hi, my name is Raziel Rodrigues](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![👋 Hi, my name is Raziel Rodrigues](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q2MDczZ3Z0OXNmcGF1eWZ2ZnZibXB3NzNwNnB0cnJ6anVvZHQ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9JgUK8cVVdgI6PES2/giphy.webp)
 
 ![Profile views](https://komarev.com/ghpvc/?username=razielrodrigues&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Raziel Rodrigues
+        Hello World
       </h1>
     </summary>
   </ul>
