@@ -24,7 +24,7 @@ Today, I have a lot to thank the people who crossed my career and who taught me 
 <h3 align="left">What I am doing</h3>
 
 - 💼 I'm currently working on: **PHP, Javascript and Symfony**
-- 🌱 I'm currently learning: **Golang, architetures and how to be a better person**
+- 🌱 I'm currently learning: **Golang**
 
 <h3 align="left">Skils</h3>
 
