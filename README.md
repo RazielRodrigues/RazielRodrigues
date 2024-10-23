@@ -1,4 +1,4 @@
-![👋 Hi, my name is Raziel Rodrigues](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q2MDczZ3Z0OXNmcGF1eWZ2ZnZibXB3NzNwNnB0cnJ6anVvZHQ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z9JgUK8cVVdgI6PES2/giphy.webp)
+![👋 Hi, my name is Raziel Rodrigues](https://wallpapercave.com/wp/wp6582675.jpg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=razielrodrigues&label=Profile%20views&color=0e75b6&style=flat)
 
