@@ -33,6 +33,7 @@ I've been passionate about technology from a young age, inspired by my father, w
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raziel-rodrigues/" target="_blank">Linkedin</a></p>
 <p align="left"><a href="https://dev.to/razielrodrigues" target="_blank">My Articles</a></p>
+<p align="left"><a href="https://razielrodrigues.vercel.app/" target="_blank">My Website</a></p>
 
 
 <h3 align="left">GitHub Stats</h3>
