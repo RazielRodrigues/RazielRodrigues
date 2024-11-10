@@ -1,10 +1,8 @@
-![👋 Hi, my name is Raziel Rodrigues]
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hello World
+        👋 Hi, my name is Raziel Rodrigues
       </h1>
     </summary>
   </ul>
