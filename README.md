@@ -1,4 +1,4 @@
-![👋 Hi, my name is Raziel Rodrigues](https://wallpapercave.com/wp/wp6582675.jpg)
+![👋 Hi, my name is Raziel Rodrigues]
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -11,14 +11,7 @@
 </div>
 
  <h3 align="left">
-  Passionate about technology since I was little, playing on the computer and playing video games has always been part of my life, my father was a programmer and I believe it is in my DNA to like codes, I was always curious to know how things worked inside the screens, encouraged by this curiosity and by my family, I decided to study database at FATEC Bauru.
-
-
-In the first semester of college I saw that that was what I wanted for my life, from then on I started to dedicate myself every day to learning web development and with time I came to the first opportunity, where it opened the doors to work with PHP and other technologies involving the Web.
-
-
-Today, I have a lot to thank the people who crossed my career and who taught me about professionalism, the world nowadays depends a lot on technology and I realize that we developers are the key point of all this, so I'm always improving myself and writing each line of code with a lot of responsibility, always looking to achieve excellence, because I know that this impacts a lot on the lives of those who use the software I program and the company I'm providing services to.
-
+I've been passionate about technology from a young age, inspired by my father, who was a programmer. This curiosity led me to study databases at FATEC Bauru, where I discovered my path in web development. Since then, I've dedicated myself to learning and improving daily, starting with my first opportunity working with PHP and web technologies. I’m deeply grateful to the mentors who shaped my professional journey. As developers, we play a key role in today’s tech-driven world, so I approach every line of code with responsibility and a commitment to excellence, knowing the impact it has on users and clients alike.
 </h3>
 
 <h3 align="left">What I am doing</h3>
