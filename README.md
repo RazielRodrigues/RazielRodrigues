@@ -25,13 +25,12 @@
 
 <ul align="left">
   <li>Backend: PHP, NodeJS (Javascript), GoLang (Learning)</li>
-  <li>Frontend: HTML, CSS/SASS, Javascript, JQuery, Bootstrap, StimulusJS, Twig, Blade</li>
+  <li>Frontend: HTML, CSS/SASS, Javascript, ReactJS</li>
   <li>Framework: Symfony, Zend, Laravel, Wordpress</li>
-  <li>Infra: Docker, Sonarqube, Datadog, Kibana, Linux, GIT</li>
-  <li>Database: MySQL, MariaDB, Redis, ORM, Database modeling</li>
-  <li>Architecture: Legacy projects, Monolith, MVC, Micro services, Clean Architecture, Onion Architecture</li>
-  <li>Refactor, TDD, Clean Code, Code review, Design Patterns, SOLID, SOAP, REST, Message queue, SCRUM, JIRA</li>
-  <li>Soft Skills: Quick learning, Collaborative, Solution oriented, Knowledge sharer</li>
+  <li>Infra: Docker, Datadog, Linux, GIT</li>
+  <li>Database: MySQL, MariaDB, Redis, ORM, Modeling</li>
+  <li>Architecture: Monolith, MVC, Micro services</li>
+  <li>Concepts: Clean Code, Code review, Design Patterns, SOLID, API, SCRUM, Jira, Automated tests, Encryption</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
