@@ -12,10 +12,6 @@
     I've been passionate about technology from a young age, inspired by my father, who was a programmer. This curiosity led me to study databases at FATEC Bauru, where I discovered my path in web development. Since then, I've dedicated myself to learning and improving daily, starting with my first opportunity working with PHP and web technologies.
 </p>
 
-<p className="mt-4 text-gray-500 sm:text-xl">
-    I’m deeply grateful to the mentors who shaped my professional journey. As developers, we play a key role in today’s tech-driven world, so I approach every line of code with responsibility and a commitment to excellence, knowing the impact it has on users and customers.
-</p>
-
 <h3 align="left">What I am doing</h3>
 
 - 💼 I'm currently working on: **PHP, Javascript and Symfony**
