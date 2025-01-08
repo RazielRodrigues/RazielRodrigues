@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Raziel Rodrigues
+        👋 Hello, welcome!
       </h1>
     </summary>
   </ul>
@@ -11,23 +11,6 @@
 <p className="mt-4 text-gray-500 sm:text-xl">
     I've been passionate about technology from a young age, inspired by my father, who was a programmer. This curiosity led me to study databases at FATEC Bauru, where I discovered my path in web development. Since then, I've dedicated myself to learning and improving daily, starting with my first opportunity working with PHP and web technologies.
 </p>
-
-<h3 align="left">What I am doing</h3>
-
-- 💼 I'm currently working on: **PHP, Javascript and Symfony**
-- 🌱 I'm currently learning: **Golang**
-
-<h3 align="left">Skils</h3>
-
-<ul align="left">
-  <li>Backend: PHP, NodeJS (Javascript), GoLang (Learning)</li>
-  <li>Frontend: HTML, CSS/SASS, Javascript, ReactJS</li>
-  <li>Framework: Symfony, Zend, Laravel, Wordpress</li>
-  <li>Infra: Docker, Datadog, Linux, GIT</li>
-  <li>Database: MySQL, MariaDB, Redis, ORM, Modeling</li>
-  <li>Architecture: Monolith, MVC, Micro services</li>
-  <li>Concepts: Clean Code, Code review, Design Patterns, SOLID, API, SCRUM, Jira, Automated tests, Encryption</li>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/raziel-rodrigues/" target="_blank">Linkedin</a></p>
