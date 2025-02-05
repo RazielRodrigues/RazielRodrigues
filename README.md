@@ -9,7 +9,19 @@
 </div>
 
 <p className="mt-4 text-gray-500 sm:text-xl">
-    Software developer with over 7 years of experience, experienced in building solutions using PHP, JavaScript, NodeJS and Symfony, learning during free time Go Lang, collaborating with multicultural teams to develop governmental, financial and management solutions for complex business problems
+Software developer with over 7 years of experience, experienced in building solutions using PHP, JavaScript, NodeJS and Symfony, learning during free time Go Lang, collaborating with multicultural teams to develop governmental, financial and management solutions for complex business problems
+</p>
+
+<p className="mt-4 text-gray-500 sm:text-xl">
+Skills:
+- PHP, NodeJS, Go Lang
+- HTML, CSS, Javascript, StimulusJS, ReactJS, TailwindCSS, Bootstrap
+- Symfony, Zend, Laravel, Wordpress
+- GIT, Docker, Linux, Datadog, Sonarqube, Kibana, Tideways, Jenkins
+- MySQL, MariaDB, Redis, ORM, Database Modeling, Database Optimization
+- MVC, Monolith, Micro Services, Clean Architecture
+- SOLID, Clean Code, Refactoring, Design Patterns, Automated Tests, API, Algorithms, Data Encryption
+- Scrum, Jira, Pair Coding, Technical writing
 </p>
 
 <h3 align="left">Connect with me:</h3>
