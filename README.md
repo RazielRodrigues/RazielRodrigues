@@ -1,7 +1,3 @@
-<div id="toc" class="text-center">
-  <h1>Welcome 👋</h1>
-</div>
-
 <p className="mt-4 text-gray-500 sm:text-xl">
   Software developer with over 7 years of experience, skilled in PHP, JavaScript, NodeJS, and Symfony. Currently learning Go Lang, collaborating with multicultural teams on governmental, financial, and management solutions.
 </p>
