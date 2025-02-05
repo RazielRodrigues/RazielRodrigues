@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Welcome
+        Welcome 👋
       </h1>
     </summary>
   </ul>
