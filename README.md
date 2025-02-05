@@ -1,9 +1,10 @@
+<h3 class="text-left">About: </h3>
 <p className="mt-4 text-gray-500 sm:text-xl">
   Software developer with over 7 years of experience, skilled in PHP, JavaScript, NodeJS, and Symfony. Currently learning Go Lang, collaborating with multicultural teams on governmental, financial, and management solutions.
 </p>
 
+<h3 class="text-left">Skills: </h3>
 <p className="mt-4 text-gray-500 sm:text-xl">
-  <strong>Skills:</strong>
   <ul className="list-disc pl-6">
     <li>PHP, NodeJS, Go Lang</li>
     <li>HTML, CSS, Javascript, StimulusJS, ReactJS, TailwindCSS, Bootstrap</li>
@@ -16,14 +17,16 @@
   </ul>
 </p>
 
-<h3 class="text-left">Connect with me:</h3>
-<p class="text-left">
-  <a href="https://www.linkedin.com/in/raziel-rodrigues/" target="_blank">Linkedin</a><br>
-  <a href="https://dev.to/razielrodrigues" target="_blank">My Articles</a><br>
-  <a href="https://razielrodrigues.vercel.app/" target="_blank">My Website</a>
+<h3 class="text-left">Connections: </h3>
+<p className="mt-4 text-gray-500 sm:text-xl">
+  <ul className="list-disc pl-6">
+    <li><a href="https://www.linkedin.com/in/raziel-rodrigues/" target="_blank">Linkedin</a><br></li>
+    <li><a href="https://dev.to/razielrodrigues" target="_blank">My Articles</a><br></li>
+    <li><a href="https://razielrodrigues.vercel.app/" target="_blank">My Website</a></li>
+  </ul>
 </p>
 
-<h3 class="text-left">GitHub Stats</h3>
+<h3 class="text-left">Stats: </h3>
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=razielrodrigues&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=razielrodrigues&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
