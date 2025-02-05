@@ -13,15 +13,17 @@ Software developer with over 7 years of experience, experienced in building solu
 </p>
 
 <p className="mt-4 text-gray-500 sm:text-xl">
-Skills:
-- PHP, NodeJS, Go Lang
-- HTML, CSS, Javascript, StimulusJS, ReactJS, TailwindCSS, Bootstrap
-- Symfony, Zend, Laravel, Wordpress
-- GIT, Docker, Linux, Datadog, Sonarqube, Kibana, Tideways, Jenkins
-- MySQL, MariaDB, Redis, ORM, Database Modeling, Database Optimization
-- MVC, Monolith, Micro Services, Clean Architecture
-- SOLID, Clean Code, Refactoring, Design Patterns, Automated Tests, API, Algorithms, Data Encryption
-- Scrum, Jira, Pair Coding, Technical writing
+  Skills:
+  <ul className="list-disc pl-6">
+    <li>PHP, NodeJS, Go Lang</li>
+    <li>HTML, CSS, Javascript, StimulusJS, ReactJS, TailwindCSS, Bootstrap</li>
+    <li>Symfony, Zend, Laravel, Wordpress</li>
+    <li>GIT, Docker, Linux, Datadog, Sonarqube, Kibana, Tideways, Jenkins</li>
+    <li>MySQL, MariaDB, Redis, ORM, Database Modeling, Database Optimization</li>
+    <li>MVC, Monolith, Micro Services, Clean Architecture</li>
+    <li>SOLID, Clean Code, Refactoring, Design Patterns, Automated Tests, API, Algorithms, Data Encryption</li>
+    <li>Scrum, Jira, Pair Coding, Technical writing</li>
+  </ul>
 </p>
 
 <h3 align="left">Connect with me:</h3>
