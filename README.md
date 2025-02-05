@@ -2,14 +2,14 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hello, welcome!
+        Welcome
       </h1>
     </summary>
   </ul>
 </div>
 
 <p className="mt-4 text-gray-500 sm:text-xl">
-    I've been passionate about technology from a young age, inspired by my father, who was a programmer. This curiosity led me to study databases at FATEC Bauru, where I discovered my path in web development. Since then, I've dedicated myself to learning and improving daily, starting with my first opportunity working with PHP and web technologies.
+    Software developer with over 7 years of experience, experienced in building solutions using PHP, JavaScript, NodeJS and Symfony, learning during free time Go Lang, collaborating with multicultural teams to develop governmental, financial and management solutions for complex business problems
 </p>
 
 <h3 align="left">Connect with me:</h3>
