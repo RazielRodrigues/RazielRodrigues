@@ -21,8 +21,8 @@
 <p className="mt-4 text-gray-500 sm:text-xl">
   <ul className="list-disc pl-6">
     <li><a href="https://www.linkedin.com/in/raziel-rodrigues/" target="_blank">Linkedin</a><br></li>
-    <li><a href="https://dev.to/razielrodrigues" target="_blank">My Articles</a><br></li>
-    <li><a href="https://razielrodrigues.vercel.app/" target="_blank">My Website</a></li>
+    <li><a href="https://dev.to/razielrodrigues" target="_blank">Articles</a><br></li>
+    <li><a href="https://razielrodrigues.vercel.app/" target="_blank">Website</a></li>
   </ul>
 </p>
 
