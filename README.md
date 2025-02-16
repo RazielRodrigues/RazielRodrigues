@@ -5,9 +5,11 @@ readme_content = """
 
 ### About
 
-```php
-const BiOGRAPHY = "Born in 1999 in São Paulo, I’ve loved video games and computers since childhood. After finishing school, I went straight to university, where I studied Database Administration at FATEC Bauru. During my second semester, I began working with web development using PHP and JavaScript at a startup in the city. In the middle of university, I traveled to Portugal for a six-month exchange program. After returning to Brazil, the pandemic began, but by then, I had already established myself in software development. Once the pandemic ended, my goal was to move to Portugal, which I successfully achieved in 2024. I now live in Porto, Portugal.";
-```
+const BiOGRAPHY = "
+\n
+Born in 1999 in São Paulo, I’ve loved video games and computers since childhood. After finishing school, I went straight to university, where I studied Database Administration at FATEC Bauru. During my second semester, I began working with web development using PHP and JavaScript at a startup in the city. In the middle of university, I traveled to Portugal for a six-month exchange program. After returning to Brazil, the pandemic began, but by then, I had already established myself in software development. Once the pandemic ended, my goal was to move to Portugal, which I successfully achieved in 2024. I now live in Porto, Portugal.
+\n
+";
 
 ### Connections
 - [Linkedin](https://www.linkedin.com/in/raziel-rodrigues/)
