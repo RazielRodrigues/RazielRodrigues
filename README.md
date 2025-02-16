@@ -1,21 +1,9 @@
 <h3 class="text-left">About</h3>
-<p className="mt-4 text-gray-500 sm:text-xl">
-  Software developer with over 7 years of experience, skilled in PHP, JavaScript, NodeJS, and Symfony. Currently learning Go Lang, collaborating with multicultural teams on governmental, financial, and management solutions.
+
+<p class="text-left">
+const BiOGRAPHY = "Born in 1999 in São Paulo, I’ve loved video games and computers since childhood. After finishing school, I went straight to university, where I studied Database Administration at FATEC Bauru. During my second semester, I began working with web development using PHP and JavaScript at a startup in the city. In the middle of university, I traveled to Portugal for a six-month exchange program. After returning to Brazil, the pandemic began, but by then, I had already established myself in software development. Once the pandemic ended, my goal was to move to Portugal, which I successfully achieved in 2024. I now live in Porto, Portugal.";  
 </p>
 
-<h3 class="text-left">Skills</h3>
-<p className="mt-4 text-gray-500 sm:text-xl">
-  <ul className="list-disc pl-6">
-    <li>PHP, NodeJS, Go Lang</li>
-    <li>HTML, CSS, Javascript, StimulusJS, ReactJS, TailwindCSS, Bootstrap</li>
-    <li>Symfony, Zend, Laravel, Wordpress</li>
-    <li>GIT, Docker, Linux, Datadog, Sonarqube, Kibana, Tideways, Jenkins</li>
-    <li>MySQL, MariaDB, Redis, ORM, Database Modeling, Database Optimization</li>
-    <li>MVC, Monolith, Micro Services, Clean Architecture</li>
-    <li>SOLID, Clean Code, Refactoring, Design Patterns, Automated Tests, API, Algorithms, Data Encryption</li>
-    <li>Scrum, Jira, Pair Coding, Technical writing</li>
-  </ul>
-</p>
 
 <h3 class="text-left">Connections</h3>
 <p className="mt-4 text-gray-500 sm:text-xl">
