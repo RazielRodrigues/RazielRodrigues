@@ -1,21 +1,29 @@
-<h3 class="text-left">About</h3>
+# Creating the README file with the provided content
 
-<p class="text-left">
-const BiOGRAPHY = "Born in 1999 in São Paulo, I’ve loved video games and computers since childhood. After finishing school, I went straight to university, where I studied Database Administration at FATEC Bauru. During my second semester, I began working with web development using PHP and JavaScript at a startup in the city. In the middle of university, I traveled to Portugal for a six-month exchange program. After returning to Brazil, the pandemic began, but by then, I had already established myself in software development. Once the pandemic ended, my goal was to move to Portugal, which I successfully achieved in 2024. I now live in Porto, Portugal.";  
-</p>
+readme_content = """
+# Raziel Rodrigues
 
+### About
 
-<h3 class="text-left">Connections</h3>
-<p className="mt-4 text-gray-500 sm:text-xl">
-  <ul className="list-disc pl-6">
-    <li><a href="https://www.linkedin.com/in/raziel-rodrigues/" target="_blank">Linkedin</a><br></li>
-    <li><a href="https://dev.to/razielrodrigues" target="_blank">Articles</a><br></li>
-    <li><a href="https://razielrodrigues.vercel.app/" target="_blank">Website</a></li>
-  </ul>
-</p>
+```php
+const BiOGRAPHY = "Born in 1999 in São Paulo, I’ve loved video games and computers since childhood. After finishing school, I went straight to university, where I studied Database Administration at FATEC Bauru. During my second semester, I began working with web development using PHP and JavaScript at a startup in the city. In the middle of university, I traveled to Portugal for a six-month exchange program. After returning to Brazil, the pandemic began, but by then, I had already established myself in software development. Once the pandemic ended, my goal was to move to Portugal, which I successfully achieved in 2024. I now live in Porto, Portugal.";
+```
 
-<h3 class="text-left">Stats</h3>
+### Connections
+- [Linkedin](https://www.linkedin.com/in/raziel-rodrigues/)
+- [Articles](https://dev.to/razielrodrigues)
+- [Website](https://razielrodrigues.vercel.app/)
+
+### Stats
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=razielrodrigues&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=razielrodrigues&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </p>
+"""
+
+# Saving the content to a readme file
+file_path = '/mnt/data/README.md'
+with open(file_path, 'w') as file:
+    file.write(readme_content)
+
+file_path
