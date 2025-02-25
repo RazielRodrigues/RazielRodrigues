@@ -5,8 +5,10 @@
 <img width="100%" src="./banner.gif" alt="Banner" />
 
 ---
-
+<p align="center">
 I'm a passionate Software Developer dedicated to building innovative solutions and sharing knowledge with the tech community. Whether I'm coding, writing articles, or exploring new technologies, I strive to bring creativity and efficiency to every project.
+</p>
+
 
 ---
 
@@ -17,9 +19,10 @@ I'm a passionate Software Developer dedicated to building innovative solutions a
 
 ---
 
-## Personal website
-
+ <p align="center">
 I invite you to explore my portfolio where I showcase my latest projects, collaborations, and contributions to the software development community.  
+
+</p>
 <br>
 
 <p align="center">
@@ -29,8 +32,11 @@ I invite you to explore my portfolio where I showcase my latest projects, collab
 </p>
 
 
----
 
+---
+<p align="center">
 *Thanks for visiting my profile! Feel free to reach out for collaborations, questions, or just to say hi.*
+
+</p>
 
 </div>
