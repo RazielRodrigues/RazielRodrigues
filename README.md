@@ -6,9 +6,7 @@
 
 ---
 
-<h5  >
 I'm a passionate Software Developer dedicated to building innovative solutions and sharing knowledge with the tech community. Whether I'm coding, writing articles, or exploring new technologies, I strive to bring creativity and efficiency to every project.
-</h5>
 
 ---
 
@@ -22,15 +20,14 @@ I'm a passionate Software Developer dedicated to building innovative solutions a
 ## Personal website
 
 I invite you to explore my portfolio where I showcase my latest projects, collaborations, and contributions to the software development community.  
-Check it out on my [personal website](https://www.razielrodrigues.dev/).
-
----
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raziel-rodrigues/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/razielrodrigues"><img src="https://img.shields.io/badge/Articles-Dev.to-0A0A0A?logo=dev.to&logoColor=white" alt="Dev.to"></a>
   <a href="https://razielrodrigues.dev/"><img src="https://img.shields.io/badge/Website-razielrodrigues.dev-ff69b4?logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
+
 
 ---
 
