@@ -1,6 +1,6 @@
 <div style="color: #ffe5b4;">
 
-<h2 align="center" style="color: #ffe5b4;">$me = new SoftwareDeveloper()</h2>
+<h2 align="center" style="color: #ffe5b4;">$me = new SoftwareDeveloper();</h2>
 
 <img width="100%" src="./banner.gif" alt="Banner" />
 
