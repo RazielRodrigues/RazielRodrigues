@@ -1,16 +1,16 @@
 <div style="color: #ffe5b4;">
 
-<h2 align="center">$me = new SoftwareDeveloper()</h2>
+<h2 align="center" style="color: #ffe5b4;">$me = new SoftwareDeveloper()</h2>
 
 <img width="100%" src="./banner.gif" alt="Banner" />
 
-<p>I'm a passionate Software Developer dedicated to building innovative solutions and sharing knowledge with the tech community. Whether I'm coding, writing articles, or exploring new technologies, I strive to bring creativity and efficiency to every project.  
-Learn more about my journey and work on my [personal website](https://www.razielrodrigues.dev/).</p>
+I'm a passionate Software Developer dedicated to building innovative solutions and sharing knowledge with the tech community. Whether I'm coding, writing articles, or exploring new technologies, I strive to bring creativity and efficiency to every project.  
+Learn more about my journey and work on my [personal website](https://www.razielrodrigues.dev/).
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raziel-rodrigues/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://dev.to/razielrodrigues"><img src="https://img.shields.io/badge/Articles-Dev.to-0A0A0A?logo=dev.to&logoColor=white" alt="Dev.to"></a>
-  <a href="https://razielrodrigues.vercel.app/"><img src="https://img.shields.io/badge/Website-razielrodrigues.vercel.app-ff69b4?logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://razielrodrigues.dev/"><img src="https://img.shields.io/badge/Website-razielrodrigues.dev-ff69b4?logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
 ---
