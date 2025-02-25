@@ -4,7 +4,11 @@
 
 <img width="100%" src="./banner.gif" alt="Banner" />
 
+---
+
+<h5  >
 I'm a passionate Software Developer dedicated to building innovative solutions and sharing knowledge with the tech community. Whether I'm coding, writing articles, or exploring new technologies, I strive to bring creativity and efficiency to every project.
+</h5>
 
 ---
 
@@ -28,6 +32,7 @@ Check it out on my [personal website](https://www.razielrodrigues.dev/).
   <a href="https://razielrodrigues.dev/"><img src="https://img.shields.io/badge/Website-razielrodrigues.dev-ff69b4?logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
+---
 
 *Thanks for visiting my profile! Feel free to reach out for collaborations, questions, or just to say hi.*
 
