@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-I'm a passionate Software Developer dedicated to building innovative solutions and sharing knowledge with the tech community. Whether I'm coding, writing articles, or exploring new technologies, I strive to bring creativity and efficiency to every project.
+Software developer with over 7 years of experience, experienced in building solutions using PHP, JavaScript, NodeJS, Symfony and other web technologies, learning during free time Go Lang, diving into ReactJS and Artificial Intelligence. Collaborating with multicultural teams to develop governmental, financial and management solutions for complex business problems. Also writing articles to share knowledge with the open source community.
 </p>
 
 
