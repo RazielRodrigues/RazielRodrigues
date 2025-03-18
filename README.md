@@ -6,8 +6,7 @@
 
 ---
 <p align="center">
-Software developer with over 7 years of experience, experienced in building solutions using PHP, JavaScript, NodeJS, Symfony and other web technologies, learning during free time Go Lang, diving into ReactJS and Artificial Intelligence. Collaborating with multicultural teams to develop governmental, financial and management solutions for complex business problems. Also writing articles to share knowledge with the open source community.
-</p>
+Software developer with over 7 years of experience, specializing in building robust web solutions using PHP, JavaScript, NodeJS, Symfony, and other modern technologies. I enjoy solving complex business challenges in governmental, financial, tourism, and any other challenging industry while collaborating with multicultural teams. Committed to knowledge sharing through technical articles and contributions to the open-source community.</p>
 
 
 ---
