@@ -6,9 +6,10 @@
 
 ---
 <p align="center">
-Software developer with over 7 years of experience, specializing in building robust web solutions using PHP, JavaScript, NodeJS, Symfony, and other modern technologies. I enjoy solving complex business challenges in governmental, financial, tourism, and any other challenging industry while collaborating with multicultural teams. Committed to knowledge sharing through technical articles and contributions to the open-source community.</p>
+  
+Software developer with over 7 years of experience, specializing in building robust web solutions using PHP, JavaScript, NodeJS, Symfony, and other modern technologies. I enjoy solving complex business challenges in governmental, financial, tourism, and any other challenging industry while collaborating with multicultural teams. Committed to knowledge sharing through technical articles and contributions to the open-source community.
 
-
+</p>
 ---
 
 <p align="center">
@@ -18,10 +19,12 @@ Software developer with over 7 years of experience, specializing in building rob
 
 ---
 
- <p align="center">
-I invite you to explore my portfolio where I showcase my latest projects, collaborations, and contributions to the software development community.  
+<p align="center">
+  
+I invite you to explore my portfolio where I showcase my latest projects, collaborations, and contributions to the software development community.
 
 </p>
+
 <br>
 
 <p align="center">
@@ -30,12 +33,5 @@ I invite you to explore my portfolio where I showcase my latest projects, collab
   <a href="https://razielrodrigues.dev/"><img src="https://img.shields.io/badge/Website-razielrodrigues.dev-ff69b4?logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
-
-
 ---
-<p align="center">
-*Thanks for visiting my profile! Feel free to reach out for collaborations, questions, or just to say hi.*
-
-</p>
-
 </div>
