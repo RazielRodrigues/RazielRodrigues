@@ -1,6 +1,6 @@
 <div style="color: #ffe5b4;">
 
-<h2 align="center">$me = new SoftwareDeveloper();</h2>
+<h2 align="center" style="color: #ffe5b4; margin-bottom: 10px;">$me = new SoftwareDeveloper();</h2>
 
 <p align="center">
   
