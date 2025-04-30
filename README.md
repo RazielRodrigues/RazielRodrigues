@@ -2,10 +2,9 @@
 
 <h2 align="center" style="color: #ffe5b4;">$me = new SoftwareDeveloper();</h2>
 
----
 <p align="center">
   
-Software developer with over 6 years of experience, specializing in building robust web solutions using PHP, JavaScript, NodeJS, Symfony, and other modern technologies. I enjoy solving complex business challenges in governmental, financial, tourism, and any other challenging industry while collaborating with multicultural teams. Committed to knowledge sharing through technical articles and contributions to the open-source community.
+Software developer with over 7 years of experience, specializing in building robust web solutions using PHP, JavaScript, NodeJS, Symfony, and other modern technologies. I enjoy solving complex business challenges in governmental, financial, tourism, and any other challenging industry while collaborating with multicultural teams. Committed to knowledge sharing through technical articles and contributions to the open-source community.
 
 </p>
 
