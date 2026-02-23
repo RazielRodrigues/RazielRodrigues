@@ -9,13 +9,6 @@ Software Engineer with 8 years of experience specialising in backend development
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=razielrodrigues&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=razielrodrigues&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
   
 I invite you to explore my portfolio where I showcase my latest projects, collaborations, and contributions to the software development community.
 
