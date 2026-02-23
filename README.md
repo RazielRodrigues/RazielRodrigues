@@ -1,10 +1,8 @@
 <div style="color: #ffe5b4;">
 
-<h2 align="center" style="color: #ffe5b4; margin-bottom: 10px;">$me = new SoftwareDeveloper();</h2>
-
 <p align="center">
   
-Software Developer, specialising in building robust web solutions using PHP, JavaScript, NodeJS, Symfony, Go and other web modern technologies. Enjoy solving complex business challenges in startup, tourism, fintech, governmental, streaming and any other challenging industry while collaborating with multicultural teams. Committed to knowledge sharing through technical articles.
+Software Engineer with 8 years of experience specialising in backend development across diverse business ecosystems, such as Streaming, Government, Fintech, Travel, and Web Development. Expert in building and scaling mission-critical systems using PHP, Symfony, Golang and NodeJS.
 
 </p>
 
