@@ -2,7 +2,7 @@
 
 <p align="center">
   
-Software Engineer with 8 years of experience specialising in backend development across diverse business ecosystems, such as Streaming, Government, Fintech, Travel, and Web Development. Expert in building and scaling mission-critical systems using PHP, Symfony, Golang and NodeJS.
+Software Engineer with 8 years of experience specialising in backend development across diverse business ecosystems, such as Streaming, Government, Fintech, Travel, and Web Development.
 
 </p>
 
