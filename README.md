@@ -1,11 +1,4 @@
 <div style="color: #ffe5b4;">
-
-<p align="center">
-  
-Software Engineer with 8 years of experience specialising in backend development across diverse business ecosystems, such as Streaming, Government, Fintech, Travel, and Web Development.
-
-</p>
-
 ---
 
 <p align="center">
