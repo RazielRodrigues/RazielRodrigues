@@ -1,6 +1,4 @@
 <div style="color: #ffe5b4;">
----
-
 <p align="center">
   
 I invite you to explore my portfolio where I showcase my latest projects, collaborations, and contributions to the software development community.
